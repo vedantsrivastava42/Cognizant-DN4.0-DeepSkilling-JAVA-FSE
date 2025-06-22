@@ -96,7 +96,7 @@ You are working on the search functionality of an e-commerce platform. The searc
 
 
 ### Output
-![alt text](image-2.png)
+![alt text](ProductSearch_Output.png)
 
 ## **Exercise 7: Financial Forecasting**
 
@@ -206,4 +206,4 @@ While the basic recursive approach is efficient for small inputs, memoization ad
 
 
 ### Output
-![alt text](image-3.png)
+![alt text](Financial_Forecast_Output.png)

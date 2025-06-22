@@ -21,7 +21,7 @@ You need to ensure that a logging utility class in your application has only one
 - Create a test class to verify that only one instance of Logger is created and used across the application.
 
 ### Output
-![alt text](image.png)
+![alt text](Singleton_Output.png)
 
 ## **Exercise 2: Implementing the Factory Method Pattern**
 
@@ -48,4 +48,4 @@ You are developing a document management system that needs to create different t
 	- Create a test class to demonstrate the creation of different document types using the factory method.
 
 ### Output
-![alt text](image-1.png)
+![alt text](FactoryMethod_Output.png)
