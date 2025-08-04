@@ -1,0 +1,70 @@
+.App {
+  text-align: left;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.counter-section {
+  margin-bottom: 20px;
+}
+
+.counter-display {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.button {
+  margin: 5px;
+  padding: 8px 15px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.button:hover {
+  background-color: #e0e0e0;
+}
+
+.currency-converter {
+  margin: 20px 0;
+}
+
+.currency-converter-title {
+  color: green;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group:last-of-type {
+  margin-bottom: 15px;
+}
+
+.form-label {
+  display: inline-block;
+  width: 80px;
+  text-align: left;
+}
+
+.form-input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  width: 150px;
+  border-radius: 4px;
+}
+
+.submit-button {
+  padding: 8px 15px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.submit-button:hover {
+  background-color: #e0e0e0;
+}
